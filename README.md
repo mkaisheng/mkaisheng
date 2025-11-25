@@ -4,7 +4,7 @@ My Linkedin ➜ [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?s
 
 I'm a Year 2 Ngee Ann Polytechnic Student pursuing the diploma of Information Technology with the aims to specialize in Software Engineering. I have worked on various projects that mostly revolve around web development with the use of HTML, CSS and Javascript. However, I do have programs that run on C# to test my programming logic and software designs. These projects have helped me to build a strong foundation on programming and I hope to further expand my knowledge in Data Structures and Algorithms , Operating systems and Networking to be able to understand computers more comprehensively. 
 
-
+![Alt text](Images/catprg.jpg)
 
 Some of my projects include :
 
